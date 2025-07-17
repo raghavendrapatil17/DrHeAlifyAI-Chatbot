@@ -34,5 +34,5 @@ PyPDF2
 docx
 speechrecognition
 gTTS
-
+deep-translator
 
