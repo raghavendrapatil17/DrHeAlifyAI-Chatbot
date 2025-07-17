@@ -7,15 +7,9 @@ Welcome to the **HeAlify Doc-Agent** repository! This project is an AI-powered h
 - **Medical Report Summarization:** Upload your medical reports and get concise summaries, key insights, and actionable advice.
 - **Dr. HeAlify Bot:** Chat with our AI-powered doctor for real-time assistance and medical advice.
 
-## Installation
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/kartavya1710/HeAlify-Doc-Agent.git
-    cd HeAlify-Doc-Agent
-    ```
 
-2. **Create a virtual environment:**
+1. **Create a virtual environment:**
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
@@ -55,14 +49,6 @@ Welcome to the **HeAlify Doc-Agent** repository! This project is an AI-powered h
 └── .env                    # Environment variables (not included, to be created)
 ```
 
-## Contact
 
-If you have any questions or need assistance, feel free to contact me at [kartavyamaster17@gmail.com](mailto:kartavyamaster17@gmail.com).
 
-## Credits
 
-Developed by **Kartavya Master**. Visit my portfolio [here](https://kartavyamaster17.wixsite.com/resume).
-
----
-
-Feel free to adjust the content as needed and replace placeholders like `https://github.com/your-username/HeAlify-Doc-Agent.git` with actual values.
