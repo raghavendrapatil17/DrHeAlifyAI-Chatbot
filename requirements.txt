@@ -35,4 +35,4 @@ docx
 speechrecognition
 gTTS
 deep-translator
-
+reportlab
