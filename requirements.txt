@@ -24,4 +24,15 @@ replicate
 Groq
 google-generativeai
 streamlit_option_menu
+streamlit
+openai
+requests
+langchain
+pandas
+python-dotenv
+PyPDF2
+docx
+speechrecognition
+gTTS
+
 
