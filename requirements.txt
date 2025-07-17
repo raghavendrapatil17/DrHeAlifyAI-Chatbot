@@ -36,3 +36,4 @@ speechrecognition
 gTTS
 deep-translator
 reportlab
+pytesseract
